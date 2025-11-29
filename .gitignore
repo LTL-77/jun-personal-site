@@ -2,7 +2,7 @@
 node_modules/
 
 # Hugo 构建产物
-public/
+# public/
 resources/
 
 # Hugo 临时文件
