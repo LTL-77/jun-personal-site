@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>个人网站 on 君往臣 · 个人网站</title>
+    <link>//localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</link>
+    <description>Recent content in 个人网站 on 君往臣 · 个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>个人网站 · jun-personal-site</title>
+      <link>//localhost:1313/portfolio/my-website/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/portfolio/my-website/</guid>
+      <description>基于 Hugo + Toha 搭建的个人品牌站，用于展示简历、博客、作品集和人生经历。</description>
+    </item>
+    
+    <item>
+      <title>Hello World：我的个人网站正式起航</title>
+      <link>//localhost:1313/blog/hello-world/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/hello-world/</guid>
+      <description>从零搭建我的个人网站，在这里我会记录成长、学习与人生经历。</description>
+    </item>
+    
+    
+  </channel>
+</rss>

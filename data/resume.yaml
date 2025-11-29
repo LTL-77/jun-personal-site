@@ -1,0 +1,49 @@
+basics:
+  name: "君往臣"
+  label: "个人网站 · 创作者 / 学习者"
+  email: "你的邮箱"
+  location: "你的城市"
+  summary: >
+    在这里写一段你自己的简介，例如：你的专业背景、性格特点、兴趣方向、正在专注的事情。
+
+education:
+  - institution: "XXXXX 大学"
+    area: "专业方向（例：计算机科学 / 经济学 / XX 工程）"
+    studyType: "本科"
+    startDate: "YYYY-MM"
+    endDate: "YYYY-MM"
+    summary: >
+      学习内容、获得的技能、参加的社团与项目等。
+
+work:
+  - company: "公司名称"
+    position: "你的岗位"
+    startDate: "YYYY-MM"
+    endDate: "至今 / YYYY-MM"
+    summary: >
+      描述你在工作/实习中的主要贡献和学到的内容。
+    highlights:
+      - "负责……"
+      - "主要参与……"
+      - "改进……"
+
+skills:
+  - name: "编程语言"
+    level: "熟练程度"
+    keywords:
+      - "Python"
+      - "JavaScript"
+      - "Go"
+
+  - name: "工具与技术栈"
+    level: "熟悉"
+    keywords:
+      - "Hugo"
+      - "Git"
+      - "VS Code"
+
+certificates:
+  - name: "某某证书"
+    date: "YYYY-MM"
+    issuer: "签发机构"
+    url: ""

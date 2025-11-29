@@ -1,0 +1,16 @@
+name: "君往臣"
+avatar: "images/avatar.jpg"   # 你之后可以把自己的头像放到 static/images/avatar.jpg
+description: "一个在快速变化世界中持续学习、记录与创造的人。"
+
+summary:
+  - "专注于个人成长、技能提升以及长期主义的实践。"
+  - "对技术、写作、知识管理与个人系统有浓厚兴趣。"
+  - "正在构建属于自己的作品体系和知识体系，并将一路的经历记录于此。"
+
+social:
+  github: "https://github.com/LTL-77"
+  email: "mailto:你的邮箱"
+  # 如果你以后有微博、B站、知乎、Twitter，可以继续加：
+  # bilibili: "https://space.bilibili.com/xxxx"
+  # zhihu: "https://zhihu.com/people/xxx"
+  # x: "https://twitter.com/xxx"
