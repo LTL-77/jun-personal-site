@@ -1,5 +1,0 @@
-{
-    "buildCommand": "hugo --gc",
-    "outputDirectory": "public",
-    "framework": null
-}
