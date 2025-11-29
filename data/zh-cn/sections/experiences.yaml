@@ -1,0 +1,10 @@
+section:
+  name: "人生经历"
+  id: "experiences"
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: "sections/experiences.html"
+
+# 👇 这一行是关键，否则就会出现你看到的 len .experiences 报错
+experiences: []

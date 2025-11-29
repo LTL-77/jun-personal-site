@@ -1,0 +1,26 @@
+section:
+  name: "关于我"
+  id: "about"
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: "sections/about.html"
+
+designation: "学生 / 开发者"
+company:
+  name: ""
+  url: ""
+
+summary: "这里以后写你的个人简介。"
+
+background:
+  image: "images/background.jpg"   # 你的背景图路径
+  alternate: "images/background.jpg"   # 可选：移动端备用图
+  fit: cover                       # cover / contain
+  position: center                 # 居中
+  repeat: no-repeat
+
+
+socialLinks: []
+softSkills: []
+badges: []

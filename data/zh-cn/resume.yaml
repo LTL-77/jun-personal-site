@@ -1,0 +1,11 @@
+section:
+  name: "简历"
+  id: "resume"
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+# 下面这些都是示例，你以后慢慢填真实简历就好
+experiences: []
+educations: []
+skills: []

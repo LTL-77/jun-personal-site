@@ -1,0 +1,10 @@
+section:
+  name: "作品集"
+  id: "projects"
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  template: "sections/projects.html"
+
+buttons: []
+projects: []

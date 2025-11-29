@@ -1,0 +1,8 @@
+skills:
+  - name: "编程与开发"
+    logo: ""
+    summary: "了解 Go / Hugo / 前端基础，能独立搭建和维护个人网站。"
+
+  - name: "写作与表达"
+    logo: ""
+    summary: "能用中文清晰地写技术笔记与博客文章。"

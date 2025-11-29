@@ -1,0 +1,13 @@
+name: "君往臣"
+nickname: "LTL"
+
+summary:
+  - "这一路少有天赋与灵感，比起努力，更多的或许是幸运。"
+
+socialLinks:
+  - name: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/LTL-77"
+  - name: "Email"
+    icon: "fas fa-envelope"
+    url: "mailto:junwangchen1541@qq.com"
